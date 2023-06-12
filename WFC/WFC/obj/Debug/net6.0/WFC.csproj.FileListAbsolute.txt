@@ -1,0 +1,15 @@
+D:\godot\WFC\WFC\bin\Debug\net6.0\WFC.exe
+D:\godot\WFC\WFC\bin\Debug\net6.0\WFC.deps.json
+D:\godot\WFC\WFC\bin\Debug\net6.0\WFC.runtimeconfig.json
+D:\godot\WFC\WFC\bin\Debug\net6.0\WFC.dll
+D:\godot\WFC\WFC\bin\Debug\net6.0\WFC.pdb
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.csproj.AssemblyReference.cache
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.GeneratedMSBuildEditorConfig.editorconfig
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.AssemblyInfoInputs.cache
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.AssemblyInfo.cs
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.csproj.CoreCompileInputs.cache
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.dll
+D:\godot\WFC\WFC\obj\Debug\net6.0\refint\WFC.dll
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.pdb
+D:\godot\WFC\WFC\obj\Debug\net6.0\WFC.genruntimeconfig.cache
+D:\godot\WFC\WFC\obj\Debug\net6.0\ref\WFC.dll
